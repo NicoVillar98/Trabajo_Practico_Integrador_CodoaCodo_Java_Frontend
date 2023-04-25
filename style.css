@@ -1,0 +1,94 @@
+#encabezado {
+    background-color: #353a40 !important;
+}
+
+.nav-link {
+    color: rgb(170, 170, 170) !important;  
+    background: none !important;
+}
+
+#ticket_encabezado {
+    color: green !important;
+}
+
+#conferencia_encabezado {
+    color: white !important;
+}
+
+#conferencia {
+    position: relative;
+}
+
+#imagenes_conferencia {
+    filter: brightness(50%);
+    width: 100%;
+ }
+
+#texto_conferencia {
+    position: absolute;
+    color: white;
+    font-size:medium;
+    max-width: 40%;
+    top: 35%;
+    left: 35%;
+    transform: translate(35%,40%);
+    text-align: end;
+}
+
+#button_ticket {
+    background-color: rgb(58, 167, 58) !important;
+    border-color: rgb(58, 167, 58) !important;
+}
+
+.texto {
+    font-size: small;
+}
+
+.Oradores {
+    margin-top: -15px;
+    margin-bottom: 5px;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.imagen img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+#imagen_lugar {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#texto_lugar {
+    background-color: #353a40;
+    font-size: small;
+}
+
+#charla {
+    text-decoration: underline dotted black;
+}
+
+#boton_enviar {
+    background-color: #96c93e!important;
+    border-color: #96c93e !important;
+}
+
+#registrarse {
+    width: 50vw !important;
+}
+
+footer {
+    background-image: linear-gradient(to right, #1c3643, #1d5271);
+}
+
+.texto_footer {
+    font-size: small;
+    text-decoration: none !important;
+    justify-content: center;
+}
