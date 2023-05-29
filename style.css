@@ -44,7 +44,7 @@
     font-size: small;
 }
 
-.Oradores {
+.letraGrande {
     margin-top: -15px;
     margin-bottom: 5px;
     font-size: 2rem;
@@ -74,7 +74,7 @@
     text-decoration: underline dotted black;
 }
 
-#boton_enviar {
+.boton_enviar {
     background-color: #96c93e!important;
     border-color: #96c93e !important;
 }
